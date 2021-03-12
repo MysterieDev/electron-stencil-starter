@@ -1,0 +1,1 @@
+import{p as e,b as p}from"./p-56657417.js";(()=>{const p=import.meta.url,m={};return""!==p&&(m.resourcesUrl=new URL(".",p).href),e(m)})().then((e=>p([["p-dedc3dcb",[[1,"example-component",{exampleProp:[1,"example-prop"],exampleToUpperCase:[64]},[[0,"click","clickListener"]]]]],["p-81ed35fa",[[1,"my-component",{first:[1],middle:[1],last:[1]}]]]],e)));
